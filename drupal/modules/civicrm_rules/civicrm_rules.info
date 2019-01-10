@@ -4,4 +4,4 @@ dependencies[] = civicrm
 dependencies[] = rules
 package = CiviCRM
 core = 6.x
-version = 6.x-5.5.2
+version = 6.x-5.7.3
